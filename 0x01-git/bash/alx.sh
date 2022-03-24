@@ -1,5 +1,1 @@
-#!/bin/bash
-echo "ALX"
-
-
-
+ALX is so cool
